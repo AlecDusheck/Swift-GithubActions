@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Sample
 //
-//  Created by 90307579 on 4/22/20.
+//  Created by Alec Dusheck on 4/22/20.
 //  Copyright © 2020 Eden Prairie High School. All rights reserved.
 //
 
